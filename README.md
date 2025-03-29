@@ -33,5 +33,5 @@ I am a **results-driven Data Analyst** with a passion for uncovering patterns, o
 ## 🤝 Let's Connect  
 📧 **Email:** [myEmail](mailto:steevenadeniyi@gmail.com)  
 🔗 **LinkedIn:** [myLinkedIn](www.linkedin.com/in/stephen-adeniyi-194b2a353)
-🌍 **Portfolio:** [myPortfolio](stephen-adeniyi-194b2a353)
+🌍 **Portfolio:** [myPortfolio](https://github.com/SteevAnalytics)
 
